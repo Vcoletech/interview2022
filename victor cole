@@ -1,3 +1,13 @@
 Can you tell me about yourself ?
 Tell me about your cicd experence ?
 What is your experense in Gith/Github ?
+What are the technology you have been using?
+What makes you pick a tool among others  to achieve a specific task?
+how confortable are you with the cloud Technologies?
+What type of project have worked on it before?
+ *Tell me bout one of your microservices deployment(do you deploy directly in the production?)
+ *Tell me about the monolithic applications that you have deploy.
+Can you explain your microservices deployment archictecture?
+Explain how you built a multi branch pipeline.
+What is the difference between ECS and Fargate?
+At what stage of your application does the Authentication come in the picture?
